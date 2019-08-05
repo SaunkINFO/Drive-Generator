@@ -1,9 +1,10 @@
 body {
+  background: linear-gradient(to right, #5b86e5 #36d1dc);
   padding-bottom: 50px;
   margin: 0;
 }
 
-h1 {
+h6 {
   margin: 50px auto 15px;
   font-weight: 700;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
